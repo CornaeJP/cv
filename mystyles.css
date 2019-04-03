@@ -1,0 +1,51 @@
+body{
+  margin: 0;
+  position:relative;
+  text-align: center;
+  color: #4527A0;
+  background-size: 100% ;
+  background-repeat: no-repeat;
+  background-image: url("images/mountains.png");
+  font-family: 'Prompt', sans-serif;
+}
+img{
+  position:relative;
+}
+.FirstPara{
+  font-family: 'Pacifico', cursive;
+  position:relative;
+}
+.NextPara{
+  width: 50%;
+  margin: auto;
+  position:relative;
+  text-align: center;
+  margin-top: 600px;
+}
+.NextPara2{
+  width: 50%;
+  margin: auto;
+  position:relative;
+  text-align: center;
+  margin-top: 150px;
+}
+.LastPara{
+  position:relative;
+  background-color:#F8BBD0;
+  text-align: center;
+  margin-top: 150px;
+  padding: 20px 0 20px;
+}
+h1{
+  font-size: 350%
+}
+h1:hover {
+  color: #7E57C2;
+}
+td{
+  text-align: left;
+}
+.myHeadtd{
+  color: #F9A825;
+  font-size: 20px;
+}
